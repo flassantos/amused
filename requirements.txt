@@ -1,0 +1,14 @@
+tqdm
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+jupyter
+h5py
+scikit-learn
+pycryptodomex
+apscheduler
+biosppy
+peakutils
+strsimpy
