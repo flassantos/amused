@@ -42,10 +42,10 @@ Each participant directory contains:
 
 | Modality | SN_1 | SN_2 | SN_3 | Total |
 |----------|------|------|------|-------|
-| Behavioral logs | 32 | 30 | 8 | **70** |
-| Physiological (EEG/HR) | 24 | 30 | 3 | **57** |
-| Facial emotions | 17 | 30 | 0 | **47** |
-
+| Logs | 32 | 30 | 8 | **70** |
+| EEG/BVP | 23 | 30 | 3 | **56** |
+| Facial Emotions | 22 | 28 | 0 | **50** |
+| SAM | 1 | 28 | 0 | **29** |
 
 
 ## Quick Start
@@ -241,7 +241,7 @@ python prepare_log_dataset.py participant_directory [output_directory]
 If you use this repository or the dataset in your research, please cite us:
 
 ```bibtex
-@article{amused2024,
+@article{amused2025,
   title={AMUSED: A Multi-Modal Dataset for Usability Smell Identification},
   author={Flavia de S. Santos, Marcos V. Treviso, Kamila R. H. Rodrigues, Renata P. M. Fortes, Sandra P. Gama},
   journal={IEEE Transactions on Affective Computing},
