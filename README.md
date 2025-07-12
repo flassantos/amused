@@ -3,10 +3,10 @@
 **A**ffective **M**ultimodal **U**ser **S**tudy for **E**xploring **D**igital Usability
 
 
-Download Link: 
-
-
 AMUSED is a comprehensive multimodal dataset for studying user behavior, emotions, and usability patterns during web interaction tasks. The dataset combines behavioral logs, physiological signals (EEG and heart rate), facial expressions, and expert annotations to provide a rich foundation for usability research and affective computing.
+
+
+Download AMUSED at Zenodo: https://zenodo.org/records/15870704
 
 
 
