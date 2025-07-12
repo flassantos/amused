@@ -241,12 +241,12 @@ python prepare_log_dataset.py participant_directory [output_directory]
 If you use this repository or the dataset in your research, please cite us:
 
 ```bibtex
-@inproceedings{YourName2023UsabilitySmells,
-  title={EmotiUsing: A Multi-Modal Dataset for Usability Smell Identification},
+@article{amused2024,
+  title={AMUSED: A Multi-Modal Dataset for Usability Smell Identification},
   author={Flavia de S. Santos, Marcos V. Treviso, Kamila R. H. Rodrigues, Renata P. M. Fortes, Sandra P. Gama},
-  booktitle={The Great Conference on HCI},
+  journal={IEEE Transactions on Affective Computing},
   year={2025},
-  pages={1--12},
+  note={Dataset available at: https://github.com/flassantos/amused},
   doi={10.XXXX/abc123}
 }
 ```
