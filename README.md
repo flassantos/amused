@@ -1,25 +1,18 @@
-# AMUSED Dataset
+# AMUSED: Affective Metrics & Usability Smell Evaluation Dataset
 
-**A**ffective **M**ultimodal **U**ser **S**tudy for **E**xploring **D**igital Usability
-
-
-AMUSED is a comprehensive multimodal dataset for studying user behavior, emotions, and usability patterns during web interaction tasks. The dataset combines behavioral logs, physiological signals (EEG and heart rate), facial expressions, and expert annotations to provide a rich foundation for usability research and affective computing.
+AMUSED (Affective Metrics & Usability Smell Evaluation Dataset) is a comprehensive multimodal dataset designed to advance research in Human-Computer Interaction (HCI), usability evaluation, and emotion recognition. This dataset combines user interaction data with physiological signals and emotional responses to provide insights into how users experience usability issues.
 
 
 Download AMUSED at Zenodo: https://zenodo.org/records/15870704
 
 
-
-## Dataset Overview
-
-The AMUSED dataset contains data from **70 participants** across **3 different social networks** (SN_1, SN_2, SN_3), capturing:
-
-- **Behavioral interaction logs** (clicks, keystrokes, scrolls, tab changes)
-- **Physiological signals** (EEG, heart rate variability via BITalino sensors)
-- **Facial emotion recognition** (7 basic emotions: anger, disgust, fear, enjoyment, contempt, sadness, surprise)
-- **Expert usability annotations** (usability smells and task completion markers)
-- **Self-reported affect** (SAM valence and arousal ratings)
-
+**Dataset Highlights**
+- **70 participants** with equal gender distribution, ages 18-61
+- **24 hours 46 minutes** of total recorded interaction time
+- **20,050 user interaction events** (clicks, scrolls, URL changes, input changes, keypress)
+- **Multiple data modalities** synchronized in time
+- **Expert annotations** of 11 types of usability smells by 20 HCI experts
+- **Three social networking platforms** with usability issues (prototypes)
 
 
 ### Dataset Structure
