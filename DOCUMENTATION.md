@@ -1,6 +1,6 @@
-# EmotiUsing Dataset Documentation
+# AMUSED Dataset Documentation
 
-The EmotiUsing dataset provides a comprehensive view of user interactions with a digital interface.
+The AMUSED dataset provides a comprehensive view of user interactions with a digital interface.
 
 <center>
 <img src="dataset.png" width="75%" />
