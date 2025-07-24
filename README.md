@@ -167,6 +167,11 @@ Participants completed realistic web interaction tasks on three different social
 - SN_3: https://github.com/flassantos/social-network
 
 
+### Instructions
+
+For more informations and instructions on the data collection and annotation, check this [wiki page](https://github.com/flassantos/annotation-usability-smells/wiki) of the annotation tool.
+
+
 
 ## Data Processing Scripts
 
