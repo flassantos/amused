@@ -5,6 +5,7 @@ This directory contains supplementary materials for the paper "AMUSED: A Multi-M
 ## Contents
 
 - [`complete_task_list.md`](complete_task_list.md) - Complete list of all 44 tasks across three social networks
+- [Dataset Structure - Documentation](https://github.com/flassantos/amused/blob/main/DOCUMENTATION.md)
 
 ## External Resources
 
