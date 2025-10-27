@@ -249,6 +249,12 @@ If you use this repository or the dataset in your research, please cite us:
 }
 ```
 
+## Contact
+
+For more information, feel free to contact us directly via email: 
+- flaviasantos [at] alumni.usp.br
+- marcos.treviso [at] tecnico.pt
+
 
 ## License
 
